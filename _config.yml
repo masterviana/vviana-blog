@@ -6,17 +6,14 @@
 title: Hexo
 subtitle:
 description:
-author: John Doe
+author: Vitor Viana
 email:
 language:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-<<<<<<< HEAD
-url: http://yoursite.com
-=======
+
 url: http://www.blog.vviana.com
->>>>>>> ffb23a12c42c831c2f8d7b6991946e5d095dba96
 root: /
 permalink: :year/:month/:day/:title/
 tag_dir: tags
@@ -61,7 +58,7 @@ tag: 2
 ## You can customize the logger format as defined in
 ## http://www.senchalabs.org/connect/logger.html
 port: 1117
-server_ip: localhost
+server_ip: 127.0.0.1
 logger: false
 logger_format: dev
 
@@ -83,7 +80,7 @@ disqus_shortname:
 # Extensions
 ## Plugins: https://github.com/hexojs/hexo/wiki/Plugins
 ## Themes: https://github.com/hexojs/hexo/wiki/Themes
-theme: landscape
+theme: hueman
 exclude_generator:
 
 # Deployment
