@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: vitor viana - programming blog
 subtitle:
-description:
+description: thats my personal blog here i write articles about code or something that i think is interesting on tecnologic world. hope is usefull for anyone!!
 author: Vitor Viana
-email:
+email: masterviana@gmail.com
 language:
 
 # URL
@@ -87,3 +87,11 @@ exclude_generator:
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type:
+
+feed:
+  type: atom
+  path: atom.xml
+  limit: 30
+
+sitemap:
+    path: sitemap.xml

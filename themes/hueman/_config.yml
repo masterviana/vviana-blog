@@ -3,7 +3,7 @@ menu:
   Home: /
   # Delete this row if you don't want categories in your header nav bar
   Categories: 
-  About: /about/index.html
+  About: http://www.vviana.com
 
 # Content
 fancybox: true
@@ -16,10 +16,10 @@ scrollLoading: true
 
 # Sidebar
 social_links:
-  twitter: 
+  twitter: https://twitter.com/masterviana
   facebook: 
-  google_plus: 
-  github: https://github.com/ppoffice/hexo-theme-hueman
+  google_plus: https://plus.google.com/104595400231096231256/posts
+  github: https://github.com/masterviana
   weibo: 
   rss: 
 widgets:
@@ -32,10 +32,10 @@ widgets:
 
 # Links
 links:
-  Hexo: http://hexo.io
+  Website: http://www.vviana.com
 
 # Miscellaneous
-google_analytics:
+google_analytics: UA-60110561-1
 favicon: /favicon.png
 fb_admins:
 fb_app_id:
