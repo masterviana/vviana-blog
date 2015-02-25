@@ -2,7 +2,7 @@
 menu:
   Home: /
   # Delete this row if you don't want categories in your header nav bar
-  Categories: 
+  Categories:
   About: http://www.vviana.com
 
 # Content
@@ -17,11 +17,11 @@ scrollLoading: true
 # Sidebar
 social_links:
   twitter: https://twitter.com/masterviana
-  facebook: 
+  facebook:
   google_plus: https://plus.google.com/104595400231096231256/posts
   github: https://github.com/masterviana
-  weibo: 
-  rss: 
+  weibo:
+  rss: /atom.xml
 widgets:
 - recent_posts
 - category
