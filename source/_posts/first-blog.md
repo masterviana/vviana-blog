@@ -3,7 +3,11 @@ categories:
 - Diary
 tags:
 - PS3
-- Games
+- Gamescd
 ---
 
-That's my first post blog, i hoping that you enjoy my blog and see what 
+That's my first post blog, i hoping that you enjoy my blog and see what
+
+
+![source code](http://news.vanderbilt.edu/files/computer-code.jpg)
+
